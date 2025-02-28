@@ -1,0 +1,51 @@
+.registration-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .image-section {
+    width: 50%;
+    background: url("../assets/login-bg.jpg") center/cover no-repeat;
+  }
+  
+  .form-section {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+  }
+  
+  .registration-form {
+    width: 80%;
+    max-width: 400px;
+  }
+  
+  .registration-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .registration-form label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  .registration-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .registration-form button {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(to right, #66a6ff, #89f7fe);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
