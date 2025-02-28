@@ -16,8 +16,8 @@ git clone https://github.com/arjun-chagal/weatherdisplay-app.git
 cd weatherdisplay-app
 
 ```
-### Install dependencies
-Install the dependencies to run the app locally, and start hosting locally
+### 2 Install dependencies and run
+Install the dependencies to run the app and start hosting locally
 ```bash
 npm install
 npm start
